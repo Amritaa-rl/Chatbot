@@ -77,7 +77,7 @@ function generateBotResponse(userMessage) {
     } else if (message.includes('thank you')) {
         response = 'Your Welcome! I am always happy to help you in need';
     } else if (message.includes('radha')) {
-        response ='Radhe Radhe, That is really beautiful being a devotee of Radha Krishna is a blessing in present world';
+        response ='Radhe Radhe, That is really beautiful... Being a devotee of Radha Krishna is a blessing in present world';
     } else if (message.includes('krishna')) {
         response ='Thinking about krishna is one of the best thing anyone can do as a human.. The Mahamantra of Lord Krishna is: Hares Krishna Hare krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Rama Rama Hare Hare.. Chanting this Mahamantra for 18times through japa mala, Gets you closer to god ';
     } else {
